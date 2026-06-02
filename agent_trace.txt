@@ -1,0 +1,8 @@
+Step 1: Read PDF
+Result: PDF successfully processed
+Step 2: Extract diagnoses
+Result: ['Acute Gastroenteritis with Dehydration', 'Urinary Tract Infection']
+Step 3: Check pending results
+Result: ['Urine Culture and Sensitivity Report']
+Step 4: Generate discharge summary
+Result: Draft generated
